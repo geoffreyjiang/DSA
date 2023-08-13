@@ -30,6 +30,5 @@ let findMin = (nums) => {
     return nums[left];
 };
 
-// Example usage
 let nums = [4, 5, 6, 7, 0, 1, 2];
 console.log(findMin(nums)); // Output: 0
